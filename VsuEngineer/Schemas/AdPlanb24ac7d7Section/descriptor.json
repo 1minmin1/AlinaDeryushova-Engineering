@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "56303e8a-0f80-4f5c-94c0-d7f2bc56dd29",
+    "Name": "AdPlanb24ac7d7Section",
+    "ModifiedOnUtc": "\/Date(1699275285000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема раздела: \"Планета\""
+  }
+}

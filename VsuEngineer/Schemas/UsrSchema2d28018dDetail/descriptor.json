@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "b3ee7837-e22d-4b3e-9cab-6fa0c7a8114b",
+    "Name": "UsrSchema2d28018dDetail",
+    "ModifiedOnUtc": "\/Date(1705523337000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема детали: \"Фото\""
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "a468d0f4-5c47-4c4e-9d99-5a0284196112",
+    "Name": "AdPlanets1Page",
+    "ModifiedOnUtc": "\/Date(1699275758000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования: \"Планеты\""
+  }
+}

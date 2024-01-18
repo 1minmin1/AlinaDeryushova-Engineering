@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "80e55a6e-1ed0-4d9e-b14f-dc2f6ba87b1a",
+    "Name": "UsrPlanetsTag",
+    "ModifiedOnUtc": "\/Date(1705337759000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег раздела Планеты2"
+  }
+}

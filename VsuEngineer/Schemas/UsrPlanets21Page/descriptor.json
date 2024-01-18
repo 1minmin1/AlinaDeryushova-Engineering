@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "1d40a4eb-e84a-42ec-87bc-66300e863eb2",
+    "Name": "UsrPlanets21Page",
+    "ModifiedOnUtc": "\/Date(1705522203000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования: \"Планеты2\""
+  }
+}

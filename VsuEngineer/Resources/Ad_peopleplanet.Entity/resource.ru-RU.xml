@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Жители планеты" />
+			<Item Name="Columns.AdAd_planets.Caption" Value="Планеты" />
+			<Item Name="Columns.AdDatetime1.Caption" Value="Дата рождения" />
+			<Item Name="Columns.AdName.Caption" Value="Название" />
+			<Item Name="Columns.AdString1.Caption" Value="ФИО" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

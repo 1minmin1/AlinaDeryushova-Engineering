@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "61ed2a8c-707a-4089-926b-bf3498d89c08",
+    "Name": "Ad_planetsInTag",
+    "ModifiedOnUtc": "\/Date(1700477062000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег в записи раздела Планеты"
+  }
+}

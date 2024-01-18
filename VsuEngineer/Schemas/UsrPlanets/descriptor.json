@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "815a88c7-3b58-4e9e-a96f-aae548178468",
+    "Name": "UsrPlanets",
+    "ModifiedOnUtc": "\/Date(1705337736000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Планеты2"
+  }
+}

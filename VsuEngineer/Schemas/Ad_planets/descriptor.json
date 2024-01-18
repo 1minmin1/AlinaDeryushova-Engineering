@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "c8b321f8-b204-46dc-89e1-8636b2bf9941",
+    "Name": "Ad_planets",
+    "ModifiedOnUtc": "\/Date(1700477030000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Планеты"
+  }
+}

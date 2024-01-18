@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "a96718ad-e2ba-4c1c-ab5b-ba1e45e96179",
+    "Name": "UsrTestProcessVsuEngineer2",
+    "ModifiedOnUtc": "\/Date(1705519607000)\/",
+    "Parent": {
+      "UId": "f1b3d204-573a-447b-b145-602593a27ef8",
+      "Name": "UsrTestProcess"
+    },
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Тест процесс"
+  }
+}

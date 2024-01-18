@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Планеты2" />
+			<Item Name="Columns.UsrBoolean1.Caption" Value="Кольца" />
+			<Item Name="Columns.UsrDatetime1.Caption" Value="Дата создания" />
+			<Item Name="Columns.UsrFloat1.Caption" Value="Размер" />
+			<Item Name="Columns.UsrInteger1.Caption" Value="Население" />
+			<Item Name="Columns.UsrLookup1.Caption" Value="Планеты2" />
+			<Item Name="Columns.UsrName.Caption" Value="Название" />
+			<Item Name="Columns.UsrNotes.Caption" Value="Заметки" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

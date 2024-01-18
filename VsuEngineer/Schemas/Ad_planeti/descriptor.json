@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "4f1fc236-a8e8-4ae7-b7df-a2d4f6b41d35",
+    "Name": "Ad_planeti",
+    "ModifiedOnUtc": "\/Date(1700477020000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Названия планет"
+  }
+}

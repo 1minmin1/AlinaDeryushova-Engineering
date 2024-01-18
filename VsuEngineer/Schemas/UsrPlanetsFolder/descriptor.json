@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "15d54c6f-4759-423f-90a6-fbafd9d05d12",
+    "Name": "UsrPlanetsFolder",
+    "ModifiedOnUtc": "\/Date(1705337747000)\/",
+    "Parent": {
+      "UId": "d602bf96-d029-4b07-9755-63c8f5cb5ed5",
+      "Name": "BaseFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Группа Планеты2"
+  }
+}

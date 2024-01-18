@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "c30a3293-52c9-404c-93b0-8f6e05804e22",
+    "Name": "UsrPlanetsFile",
+    "ModifiedOnUtc": "\/Date(1705337741000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Файл и ссылка объекта Планеты2"
+  }
+}

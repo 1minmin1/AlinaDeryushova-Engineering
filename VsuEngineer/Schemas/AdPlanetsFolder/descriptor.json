@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "9ff2a365-2f12-4516-97ce-5a78775fb1d6",
+    "Name": "AdPlanetsFolder",
+    "ModifiedOnUtc": "\/Date(1699275776000)\/",
+    "Parent": {
+      "UId": "d602bf96-d029-4b07-9755-63c8f5cb5ed5",
+      "Name": "BaseFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Группа Планеты"
+  }
+}

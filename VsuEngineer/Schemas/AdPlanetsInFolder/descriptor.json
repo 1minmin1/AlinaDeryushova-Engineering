@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "af12c794-19f0-43fd-8eb3-123c7743e036",
+    "Name": "AdPlanetsInFolder",
+    "ModifiedOnUtc": "\/Date(1699275781000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Планеты в группе"
+  }
+}

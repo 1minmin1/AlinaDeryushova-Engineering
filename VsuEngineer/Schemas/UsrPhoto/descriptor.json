@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "5070fa08-fd8d-45b5-a5a6-66dd32b1abc4",
+    "Name": "UsrPhoto",
+    "ModifiedOnUtc": "\/Date(1705351458000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Фото"
+  }
+}

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Планеты" />
+			<Item Name="Columns.AdAmountPlanets.Caption" Value=" Количество планет" />
+			<Item Name="Columns.AdName.Caption" Value="Название" />
+			<Item Name="Columns.AdNotes.Caption" Value="Заметки" />
+			<Item Name="Columns.AdNumOfHabPlan.Caption" Value="Количесвто планет, пригодных для жизни" />
+			<Item Name="Columns.AdNumOfHabPlanets.Caption" Value="Количество планет, пригодных для жизни" />
+			<Item Name="Columns.AdPlanets.Caption" Value=" Планеты" />
+			<Item Name="Columns.AdPlanetSize.Caption" Value="Размер планет" />
+			<Item Name="Columns.AdPopulation.Caption" Value="Население планеты Земля" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

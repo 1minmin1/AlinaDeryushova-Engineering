@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "e0ef879b-e6d5-4f01-bff5-b86b9561e632",
+    "Name": "UsrPlanets2InFolder",
+    "ModifiedOnUtc": "\/Date(1705338044000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Планеты2 в группе"
+  }
+}

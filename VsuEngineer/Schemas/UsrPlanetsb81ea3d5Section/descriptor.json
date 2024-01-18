@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "a2783ef2-b5fd-4189-affb-55158e7f373b",
+    "Name": "UsrPlanetsb81ea3d5Section",
+    "ModifiedOnUtc": "\/Date(1705352175000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема раздела: \"Планеты2\""
+  }
+}

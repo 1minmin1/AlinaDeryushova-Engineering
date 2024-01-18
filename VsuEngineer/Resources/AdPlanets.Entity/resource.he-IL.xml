@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.AdName.Caption" Value="שם" />
+			<Item Name="Columns.AdNotes.Caption" Value="הערות" />
+		</Items>
+	</Group>
+</Resources>

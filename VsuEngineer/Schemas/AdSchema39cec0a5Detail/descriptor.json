@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "88a0a1c0-9e1b-4953-a88e-c0f5a877a32e",
+    "Name": "AdSchema39cec0a5Detail",
+    "ModifiedOnUtc": "\/Date(1700482683000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема детали: \"Жители планеты\""
+  }
+}

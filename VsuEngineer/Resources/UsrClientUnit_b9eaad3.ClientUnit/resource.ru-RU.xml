@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Новый Контакт с типом Клиент" />
+			<Item Name="Parameters.371e2e4b-d95f-4a24-8607-68547afe064b.Caption" Value="ФИО" />
+			<Item Name="Parameters.3a3a6064-9686-46ba-9a1e-66cb6e8a14ed.Caption" Value="Имя" />
+			<Item Name="Parameters.5b121831-9c17-45d2-ba08-b868fbf5e9d7.Caption" Value="Отчество" />
+			<Item Name="Parameters.c49bd85e-159a-49ee-b10a-3c3bca63d7d5.Value.c4841740-ff8c-406f-8626-1c78f78608bf.Caption" Value="Закрыть" />
+			<Item Name="Parameters.c49bd85e-159a-49ee-b10a-3c3bca63d7d5.Value.f073e66a-36ec-47d7-9c6a-e5952dbf05a3.Caption" Value="Сохранить" />
+			<Item Name="Parameters.fe3d854d-239a-447e-adeb-f33c1cc042d9.Caption" Value="Фамилия" />
+		</Items>
+	</Group>
+</Resources>

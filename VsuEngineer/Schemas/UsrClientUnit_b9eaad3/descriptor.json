@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "fecbbe48-c5ce-481c-8aa0-0879d29baee6",
+    "Name": "UsrClientUnit_b9eaad3",
+    "ModifiedOnUtc": "\/Date(1705519590000)\/",
+    "Parent": {
+      "UId": "5826ff24-46c6-4169-9223-2aaad9ec2e18",
+      "Name": "BasePageSimpleProcessTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Новый Контакт с типом Клиент"
+  }
+}
